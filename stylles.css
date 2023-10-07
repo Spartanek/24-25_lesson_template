@@ -127,3 +127,27 @@ nav {
 .advantages-section {
   padding: 94px 0px;
 }
+.main-heading {
+  color: #212121;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.08px;
+  margin-bottom: 50px;
+}
+.doing-ul {
+  display: flex;
+}
+.doing-ul > li:not(:last-child) {
+  margin-right: 30px;
+}
+.logos-portfolio {
+  width: 20px;
+  height: 20px;
+}
+.portfoliologos-ul {
+  display: flex;
+}
